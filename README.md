@@ -1,1 +1,1 @@
-blog.karapetsas.com
+http://blog.karapetsas.com
