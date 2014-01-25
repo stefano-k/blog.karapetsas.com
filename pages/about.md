@@ -7,6 +7,10 @@
 .. slug: about
 -->
 
+<br/>
+
+![me](http://www.gravatar.com/avatar/8c0d9fc1b2aa8261fd1dee235c0dabb6)
+
 ## Stefano Karapetsas
 
   * Developer of [MATE Desktop Environment](http://www.mate-desktop.org/)
@@ -14,9 +18,10 @@
   * Maintainer of [some packages](http://qa.debian.org/developer.php?login=stefano@karapetsas.com) in Debian
   * Maintainer of [some packages](https://admin.fedoraproject.org/pkgdb/users/packages/stefanok) in Fedora
 
-## Links
+### Links
 
   * [GitHub](https://github.com/stefano-k)
-  * [Debian wiki](http://wiki.debian.org/StefanoKarapetsas)
   * [Launchpad](https://launchpad.net/~stefano-karapetsas)
+  * [Debian wiki](http://wiki.debian.org/StefanoKarapetsas)
+  * [Fedora wiki](http://fedoraproject.org/wiki/User:Stefanok)
   * [Ohloh](https://www.ohloh.net/accounts/stefano-k)
