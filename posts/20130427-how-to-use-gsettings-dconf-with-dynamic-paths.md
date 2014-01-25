@@ -8,7 +8,7 @@
 
 As you know, MATE 1.6 migrated to GSettings/dconf and dropped MateConf (the GConf fork). In this post I’ll give you some tips to learn this new configuration system.
 
-dconf-editor
+![dconf-editor](/assets/2013-04-27-dconf-editor-mini.png)
 
 First, I would like to spread this nice guide written by Infirit on our wiki about GSettings and dconf in MATE 1.6:
 
