@@ -7,3 +7,6 @@ output
 
 # Nikola database
 .doit.db
+
+# Deploy script
+deploy.sh
