@@ -3,7 +3,7 @@
 .. tags: MATE,Caja
 .. date: 2014/10/29 06:32:42
 .. title: Caja Extensions
-.. slug: 2014-10-20-caja-estensions
+.. slug: 2014-10-29-caja-estensions
 .. author: Stefano Karapetsas
 
 Finally we merged in MATE 1.9 the job done by [Alexander van der Meij](https://github.com/alexandervdm) for
